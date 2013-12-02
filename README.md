@@ -23,7 +23,7 @@ Installation
 Clone the repository locally, then run the setup script, passing the location of the
  repo that you want to add hooks to as an input argument:
     
-    git clone git@github.com:bobgilmore/githooks.git
+    git clone git@github.com:jslate/githooks.git
     cd (into the newly-created repository directory)
     chmod 777 ./setup.sh
     ./setup.sh path_to_repo_that_you_want_to_add_hooks_to
